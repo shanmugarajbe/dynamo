@@ -1,1 +1,5 @@
-# dynamo
+# Dynamo
+
+#Prerequists 
+-Node
+-Express
