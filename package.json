@@ -1,0 +1,29 @@
+{
+  "name": "dynamo",
+  "version": "1.0.0",
+  "description": "This is a dynamo project which is chaos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanmugarajbe/dynamo.git"
+  },
+  "keywords": [
+    "Dynamo"
+  ],
+  "author": "Shanmugaraj M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanmugarajbe/dynamo/issues"
+  },
+  "homepage": "https://github.com/shanmugarajbe/dynamo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
